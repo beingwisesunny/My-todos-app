@@ -126,7 +126,7 @@ function App() {
   const pending = total - completed;
 
   return (
-    <div className="min-h-screen bg-slate-50 px-4 py-10">
+    <div className="min-h-screen bg-slate-300 px-4 py-10">
 
       {/* Header */}
       <div>
